@@ -3,15 +3,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Shivanand0297/Project-11-Fullstack-Javascript-Web-Development-Bootcamp">
+  <a href="https://github.com/Shivanand0297/Project-12-Fullstack-Javascript-Web-Development-Bootcamp">
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
-<h3 align="center">Project-11 Hosting Landing Page</h3>
+<h3 align="center">Project-12 Business Landing Page</h3>
 
   <p align="center">
     <br />
-    <a href="https://shivanand-project-11-hosting-page.netlify.app/">Live Link</a>
+    <a href="https://shivanand-project-12-business-landing.netlify.app">Live Link</a>
   </p>
 </div>
 
@@ -34,9 +34,9 @@
 
 ## About The Project
 
-Hosting Landing Page using Pure HTML & CSS.
+Business Landing Page using Pure HTML & CSS.
 
-![Project-11: Interior Design Home Page](https://github.com/Shivanand0297/Project-11-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-11/images/home-page-Screenshot%202022-08-27%20205727.png)
+![Project-12: Business Landing Page](https://github.com/Shivanand0297/Project-12-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-12/Assets/homepage.png)
 
 
 
@@ -76,19 +76,18 @@ Source Code :
 - ✔ HTML 5
 - ✔ CSS 4
   - ✔ CSS Selectors
-  - ✔ CSS Positioning
+  - ✔ Image Invert Property
   - ✔ Flexbox
-  - ✔ Background property 
-  - ✔ Gradient background
+  - ✔ Handling image inside div 
   - ✔ How to handle svg images
   - ✔ font awesome icon integration
-  - ✔ Responsive for 1200px size
+  - ✔ Responsive for tablet and mobile screens
  - ✔ Git and Github
 <!-- NOTE -->
 
 ## Note
 
-For this project I took around `12 hours` to complete it. The major portion of my time spent in working on CSS flexbox and on responsiveness.
+For this project I took around `10 hours` to complete it. The major portion of my time spent in working on CSS flexbox and on responsiveness.
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
@@ -145,6 +144,6 @@ For this project I took around `12 hours` to complete it. The major portion of m
 
 <!-- Project screenshot -->
 
-[project-url]: https://shivanand-project-11-hosting-page.netlify.app/
+[project-url]: https://shivanand-project-12-business-landing.netlify.app/
 
-[source-code]: https://github.com/Shivanand0297/Project-11-Fullstack-Javascript-Web-Development-Bootcamp
+[source-code]: https://github.com/Shivanand0297/Project-12-Fullstack-Javascript-Web-Development-Bootcamp
